@@ -79,9 +79,8 @@
 
     #logo {
     display: inline-block;
-    margin: 15px; /* margin: 20px was off */
-    float: left;
-    height: 60px;
+    margin: auto; /* margin: 20px was off */
+    height: auto;
     width: auto; /* correct proportions to specified height */
-    border-radius: 50%; /* makes it a circle */
+    border-radius: 8px; /* makes it a circle */
     }
